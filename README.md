@@ -11,4 +11,4 @@ pip install -r /path/to/requirements.txt
 <br>
 **Full documentation of the Data Model below**: <br>
 
-![Plantuml Diagram](https://github.com/fouadaabid/felfel/blob/main/docs/myapp_models.png?raw=true)
+![Plantuml Diagram](https://github.com/fouadaabid/felfel/tree/master/docs/myapp_models.png?raw=true)
